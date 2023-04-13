@@ -106,7 +106,7 @@ React-Dashboard
 
 ## Author
 
-- [@blaiti](https://github.com/blaiti)
+- [@Collins-Muhia](https://github.com/Collins-Muhia)
 
 ## License
 
